@@ -1,5 +1,5 @@
 # <img width="27" heigth="27" src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png"> Piscina
-Este repositorio contiene los proyectos desarrollados durante la piscina de 42, el proceso intensivo de selección del llamado [cursus]().
+Este repositorio contiene los proyectos desarrollados durante la piscina de 42, el proceso intensivo de selección del llamado [cursus](https://github.com/NicoBuquetCebada/cursus).
 
 La piscina constituye una experiencia de aprendizaje altamente exigente en la que los participantes deben resolver problemas de programación en lenguaje C mediante aprendizaje autónomo, colaboración y desarrollo práctico de proyectos.
 
@@ -27,7 +27,7 @@ Este repositorio está organizado según las principales etapas de la piscina:
 ***
 
 # <img width="27" heigth="27" src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png"> Piscine
-This repository contains the projects developed during the 42 piscine, the intensive selection process for the so-called [cursus]().
+This repository contains the projects developed during the 42 piscine, the intensive selection process for the so-called [cursus](https://github.com/NicoBuquetCebada/cursus).
 
 The piscine is a highly demanding learning experience in which participants must solve programming problems in the C language through autonomous learning, collaboration, and hands-on project development.
 
